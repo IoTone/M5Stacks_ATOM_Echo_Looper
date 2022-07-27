@@ -6,8 +6,6 @@ https://github.com/m5stack/M5-ProductExampleCodes/blob/master/Core/Atom/AtomEcho
 The project goal is to make a small handheld looper that can work with
 modular eurorack gear.
 
- https://static-cdn.m5stack.com/resource/docs/products/atom/atomecho/atomecho_01.webp]
-
  ![Alt text](https://static-cdn.m5stack.com/resource/docs/products/atom/atomecho/atomecho_01.webp "Pinouts")
 ## Hardware Requirements
 
