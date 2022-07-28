@@ -20,5 +20,20 @@ modular eurorack gear.
 
 ## Stereo Jack Mod
 
-TBD
+- The sticker on the side of the side can be removed which is the FCC sticker.
+- Once the sticker is off, you can actually easily press a thumb against the area near the sticker, the case will pop off
+- With the case off, you should carefully fold it open
+- Without breaking the solder on the red and black wires connecting to the speaker, move the case aside
+- Add a mono headphone jack to the setup via a black/red wire
+- You can optionally detatch the speakers
+- Your can piggy back off the existing wires
+- (a) run the two new wires out of the case near the little button
+- (b) or make a hole with a drill for wires to pass
+- (c) with some ingenuity, you can mount the jack onto the case
+
+That's it.  Try it out.
+
+Troubleshooting:
+
+- If you open the case and mess up: https://forum.m5stack.com/topic/117/easy-way-to-destroy-an-m5-stack
 
