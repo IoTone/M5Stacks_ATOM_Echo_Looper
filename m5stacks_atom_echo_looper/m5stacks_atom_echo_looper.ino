@@ -14,7 +14,7 @@
 #define MODE_SPK 1
 #define DATA_SIZE 1024
 
-uint8_t microphonedata0[1024 * 100];
+uint8_t microphonedata0[1024 * 90];
 int data_offset = 0;
 
 void InitI2SSpeakerOrMic(int mode)
@@ -67,6 +67,7 @@ void loop() {
   
     if (M5.Btn.isPressed())
     {
+        delay(200); // Try adding delay to avoid internal click on press of button, or is the noise on release?
         data_offset = 0;
         InitI2SSpeakerOrMic(MODE_MIC);
         M5.dis.drawpix(0, CRGB(128, 128, 0));
